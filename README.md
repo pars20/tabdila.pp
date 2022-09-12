@@ -83,8 +83,7 @@ tabdil app [short tags] documentation
 
 امکان انتخاب سایر شهرهای استان
 
-لیست شناسه استان ها:
-`https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86`
+[لیست شناسه استان ها](https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
 
 
 
