@@ -159,7 +159,7 @@ tabdil app [short tags] documentation
 
 # بخش واحد ها conversion
 
-`[tabdil وزن]`
+`[tabdil وزن]`          `[tabdil وزن title]`
 
 `[tabdil طول]`
 
