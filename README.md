@@ -156,4 +156,62 @@ tabdil app [short tags] documentation
 
 
 
+
+# بخش واحد ها conversion
+
+`[tabdil وزن]`
+
+`[tabdil طول]`
+
+`[tabdil حجم]`
+
+`[tabdil دما]`
+
+`[tabdil مساحت]`
+
+`[tabdil فشار]`
+
+`[tabdil سرعت]`
+
+`[tabdil نیرو]`
+
+`[tabdil زمان]`
+
+`[tabdil گشتاور]`
+
+`[tabdil انرژی]`
+
+`[tabdil فرکانس]`
+
+`[tabdil توان]`
+
+`[tabdil شتاب]`
+
+`[tabdil انتقال-داده]`
+
+`[tabdil ذخیره-دیجیتال]`
+
+`[tabdil زاویه]`
+
+`[tabdil چگالی]`
+
+`[tabdil جریان-جرمی]`
+
+`[tabdil جریان-حجمی]`
+
+`[tabdil جریان-الکتریکی]`
+
+`[tabdil ضریب-انتقال-حرارت]`
+
+
+
+
+
+
+
+
+
+
+
+
         
