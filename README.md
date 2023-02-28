@@ -43,6 +43,17 @@ tabdil app [short tags] documentation
 
 
 
+`[tabdil تبدیل gh-m]`
+`[tabdil تبدیل gh-sh]`
+`[tabdil تبدیل sh-m]`
+`[tabdil تبدیل sh-gh]`
+`[tabdil تبدیل m-sh]`
+`[tabdil تبدیل m-gh]`
+
+تبدیل با نوع تقویم مبدا و مقصد مشخص شده
+
+
+
 ## سن
 `[tabdil سن]`
 
