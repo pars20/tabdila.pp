@@ -249,6 +249,22 @@ tabdil app [short tags] documentation
 
 
 
+## ساخت کد Hash با الگوریتم های MD5, SHA1, SHA256, SHA512 و..
+`[tabdil hash]`
+
+
+ایجاد کد هش برای متن دلخواه، با تمام الگوریتم های هش موجود روی سرور
+
+
+
+
+
+
+
+
+
+
+
 
 
 
