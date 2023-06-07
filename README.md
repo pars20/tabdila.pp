@@ -288,3 +288,16 @@ tabdil app [short tags] documentation
 
 
 
+## معادله درجه اول
+
+
+`[tabdil equation]`
+
+فرم حل معادله درجه1
+
+
+
+
+
+
+
