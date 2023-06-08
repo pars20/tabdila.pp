@@ -296,6 +296,14 @@ tabdil app [short tags] documentation
 فرم حل معادله درجه1
 
 
+## معادله درجه دوم
+
+`[tabdil equation2]`
+
+فرم محاسبه دلتا و ریشه های معادله درجه2
+
+
+
 
 
 
