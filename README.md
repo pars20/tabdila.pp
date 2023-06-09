@@ -315,4 +315,13 @@ tabdil app [short tags] documentation
 
 
 
+## توان یک عدد
+`[tabdil exponent]`
+
+
+فرم محاسبه یک مجهول در معادله توان یک عدد
+
+
+
+
 
