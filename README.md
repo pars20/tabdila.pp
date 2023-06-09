@@ -305,6 +305,13 @@ tabdil app [short tags] documentation
 
 
 
+# فاکتورهای یک عدد
+
+`[tabdil factors]`
+
+فرم محاسبه فاکتورها (عامل ها) برای یک عدد + بررسی عدد اول
+
+
 
 
 
