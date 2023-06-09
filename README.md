@@ -305,7 +305,7 @@ tabdil app [short tags] documentation
 
 
 
-# فاکتورهای یک عدد
+## فاکتورهای یک عدد
 
 `[tabdil factors]`
 
