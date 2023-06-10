@@ -323,5 +323,13 @@ tabdil app [short tags] documentation
 
 
 
+## جذر یک عدد
+
+`[tabdil square]`
+
+فرم محاسبه جذر در معادله جذر یک عدد
+
+
+
 
 
