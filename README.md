@@ -357,4 +357,12 @@ tabdil app [short tags] documentation
 
 
 
+##  مساحت، محیط و قطر مستطیل 
+
+`[tabdil rectangle]`
+
+محاسبه مقدار مساحت و محیط و قطر یک مستطیل
+
+
+
 
