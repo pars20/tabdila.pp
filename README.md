@@ -349,4 +349,12 @@ tabdil app [short tags] documentation
 
 
 
+##  محاسبه نسبت طلایی
+
+`[tabdil goldenratio]`
+
+فرم محاسبه نسبت طلایی با دو مجهول
+
+
+
 
