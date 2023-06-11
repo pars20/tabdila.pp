@@ -365,4 +365,11 @@ tabdil app [short tags] documentation
 
 
 
+## مساحت، محیط و قطر مربع
+
+`[tabdil squareshape]`
+
+
+محاسبه مقدار مساحت، محیط و قطر یک مربع
+
 
