@@ -394,6 +394,7 @@ tabdil app [short tags] documentation
 `[tabdil BMR]`
 
 فرم محاسبه شاخص BMR با 3 فرمول متفاوت
+[توضیحات فرمول های BMR](https://en.wikipedia.org/wiki/Basal_metabolic_rate)
 
 
 
