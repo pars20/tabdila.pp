@@ -173,10 +173,14 @@ tabdil app [short tags] documentation
 `[tabdil وزن]`
 
 برای نمایش فقط عنوان
+
 `[tabdil وزن title]`
 
 تعیین محدودیت برای واحدهای قابل تبدیل
+
 `[tabdil وزن kilogram gram pound carat ounce ton mesghal charak sir soot]`
+
+
 
 
 
