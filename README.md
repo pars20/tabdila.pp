@@ -615,6 +615,23 @@ tabdil app [short tags] documentation
 .
 
 
+# 🍭بخش Date
+
+
+## خروجی تاریخ امروز = 14 آذر
+`[tabdil date today]`
+
+
+
+## خروجی تاریخ فردا = 15 آذر
+`[tabdil date tomorrow]`
+
+
+
+.
+.
+.
+
 
 
 
